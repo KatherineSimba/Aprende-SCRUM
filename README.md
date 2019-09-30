@@ -33,12 +33,20 @@ aprovecha al máximo los recursos con un  mínimo de inversión.
 + Contacto constante con las necesidades del usuario
 
 # Roles de SCRUM
-
+  
 |Product Owner| Scrum Master| Team|
 |----|----|----|
 |Aportar ideas al prducto final, desarrolla historias de usuario para el backlog, es la voz del cliente| Mantener el flujo del trabajo, apoya al equipo, mantener los procesos| Grupo de personas que realiza el proyecto, no pueden ser menos de 3 y tampoco superar a las 15 personas.|
-
-
+ ### Produc Owner 
+ Es el que se dedica tener una charla con el cliente para saber lo que va a necesitar en el proyecto (todo lo que desa en su proyecto)
+ ### Scrum Master 
+ Es el que esta encargado de dabr las tareas el team para que el proyecto se pueda realizar mas rapido, les guia para porder realizar las tareas
+ ### El Team
+ Es el encargado de realzar las tareas el tiene que seguir los suientes pasos
+ 1. Que voy hacer 
+ 2. Lo estoy haciendo 
+ 3. Lo termine de hacer   
+ 
 # Ciclo de trabajo SCRUM
 
 ## Bitácora de trabajo 
@@ -60,7 +68,7 @@ Tienen un ciclo corto tiempo de 2 a 4 semanas, se desarrollan las bitácoras de 
 Es una reunión diaria que realiza el equipo por 15 minutos  la junta se realiza parados con el fin de que ninguno se aburra y sean concisos y directos en lo que quieren decir.
 
 Se realizan tres preguntas
-1. ¿Qué hciste ayer?
+1. ¿Qué hiciste ayer?
 2. ¿Qué vas a hacer hoy?
 3. ¿Hay akgún obstáculo para realizarlo?
 
