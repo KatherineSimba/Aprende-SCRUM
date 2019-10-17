@@ -3,7 +3,7 @@ Metodología Scrum (Semana 2)
 
 # ¿Qué es SCRUM?
 
-Es una metodología ágil,  para desarrollar  productos y sevicios innovadores
+Es una metodología ágil,  para desarrollar  productos y sevicios innovadores 
 
 >>>Scrum es un marco de trabajo para desarrollo ágil de software.
 
@@ -23,6 +23,12 @@ aprovecha al máximo los recursos con un  mínimo de inversión.
 + Entrega de un producto funcional a corto tiempo.
 
 + Trabajo en equipo
+
++ Adoptar una estrategia de desarrollo incremental, en lugar de la planificación y ejecución completa del producto.
+
++ Basar la calidad del resultado más en el conocimiento tácito de las personas en equipos auto organizados, que en la calidad de los procesos empleados.
+
++ Solapar las diferentes fases del desarrollo, en lugar de realizar una tras otra en un ciclo secuencial o en cascada.
 
 - Existe varios Roles principales en Scrum Master, Product Owner,Team
 - Existe una pequeña reunion de 15 minutos en por las mañana 
