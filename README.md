@@ -5,12 +5,16 @@ Metodología Scrum (Semana 2)
 
 Es una metodología ágil,  para desarrollar  productos y sevicios innovadores 
 
+La teoría de Scrum es una metodología para el desarrollo software, tiene tres pilares para el control del proceso: transparencia en el equipo de trabajo, inspección para incorporar mejoras al producto y adaptación para que el siguiente sprint sea mejor que el anterior.
+
 >>>Scrum es un marco de trabajo para desarrollo ágil de software.
 
 ## ¿Dónde se aplica?
 
 Se la aplica principalmente en empresas grande, pero la podemos aplicar en diferentes proyectos ya sea uno grande o pequeño puesto que
 aprovecha al máximo los recursos con un  mínimo de inversión.
+
+Esta guía está dirigida a todo aquel que interese por la gestión de proyectos y desarrollo de Software con la metodología Scrum.
 
 >>>>Es un proceso que se aplican de manera regular un conjunto de buenas practicas para trabajar colaborativamente, en equipo y ontener el mejor resultado con una mejor calidad.
 
